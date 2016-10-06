@@ -1,0 +1,7 @@
+[01-Mar-2016 06:53:22 UTC] PHP Fatal error:  Call to undefined function get_template_directory() in /home/ausway/public_html/wp-content/themes/beautiful-pro/functions.php on line 3
+[14-Mar-2016 00:33:16 UTC] PHP Fatal error:  Call to undefined function get_template_directory() in /home/ausway/public_html/wp-content/themes/beautiful-pro/functions.php on line 3
+[08-Jul-2016 01:56:25 UTC] PHP Fatal error:  Call to undefined function get_template_directory() in /home/ausway/public_html/wp-content/themes/beautiful-pro/functions.php on line 3
+[03-Aug-2016 14:51:52 UTC] PHP Fatal error:  Call to undefined function get_template_directory() in /home/ausway/public_html/wp-content/themes/beautiful-pro/functions.php on line 3
+[06-Aug-2016 16:06:57 UTC] PHP Fatal error:  Call to undefined function get_template_directory() in /home/ausway/public_html/wp-content/themes/beautiful-pro/functions.php on line 3
+[11-Aug-2016 03:42:08 UTC] PHP Fatal error:  Call to undefined function get_template_directory() in /home/ausway/public_html/wp-content/themes/beautiful-pro/functions.php on line 3
+[11-Aug-2016 04:03:34 UTC] PHP Fatal error:  Call to undefined function get_template_directory() in /home/ausway/public_html/wp-content/themes/beautiful-pro/functions.php on line 3
